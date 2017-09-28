@@ -1,0 +1,27 @@
+{
+  "name": "dynamodb_scaling",
+  "version": "1.0.0",
+  "description": "AWS Lambda function for scaling DynamoDB.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'no test command'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simoncpu/dynamodb_scaling.git"
+  },
+  "keywords": [
+    "aws",
+    "lambda",
+    "dynamodb"
+  ],
+  "author": "Simon Cornelius P. Umacob",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/simoncpu/dynamodb_scaling/issues"
+  },
+  "homepage": "https://github.com/simoncpu/dynamodb_scaling#readme",
+  "jshintConfig": {
+    "esversion": 6
+  }
+}

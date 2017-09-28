@@ -1,2 +1,2 @@
 # dynamodb_scaling
-AWS Lambda function for scaling DynamoDB
+AWS Lambda function for scaling DynamoDB.
